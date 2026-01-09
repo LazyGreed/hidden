@@ -1,0 +1,5 @@
+.vscode
+.venv
+data
+01_pdf2png_300dpi.py
+testing.ipynb
